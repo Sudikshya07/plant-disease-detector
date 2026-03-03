@@ -1,0 +1,7 @@
+{
+  "name": " Plant Disease Expert",
+  "description": "Identify plant diseases and get treatment advice by uploading a leaf image. Designed for farmers and students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
